@@ -13,7 +13,7 @@ export const personalInfo = {
   title: "Full-Stack Developer",
   tagline: "I build modern web experiences that are fast, accessible, and beautiful.",
   email: "4366brahampreet@gmail.com",
-  avatar: "https://media.licdn.com/dms/image/v2/D5603AQGvHOxZohB9CA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1704700781885?e=1774483200&v=beta&t=0_AWVbskmRq0KZOqhA9026nphl9BZqc8z5ZiJ3Ht6Tc",
+  avatar: "/src/assets/1704700781885.jpg",
   resumeUrl: "#",
 };
 

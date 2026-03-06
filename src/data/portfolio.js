@@ -7,13 +7,14 @@ import {
   CloudServerOutlined,
   ToolOutlined,
 } from "@ant-design/icons";
+import avatarImg from "../assets/1704700781885.jpg";
 
 export const personalInfo = {
   name: "Braham Singh",
   title: "Full-Stack Developer",
   tagline: "I build modern web experiences that are fast, accessible, and beautiful.",
   email: "4366brahampreet@gmail.com",
-  avatar: "/src/assets/1704700781885.jpg",
+  avatar: avatarImg,
   resumeUrl: "#",
 };
 
@@ -164,7 +165,8 @@ by approximately 50%.`,
 
 export const socialLinks = [
   { icon: GithubOutlined, url: "https://github.com/brhmpreet", label: "GitHub" },
-  { icon: LinkedinOutlined, url: "https://www.linkedin.com/in/braham-s-620035131/", label: "LinkedIn" }
+  { icon: LinkedinOutlined, url: "https://www.linkedin.com/in/braham-s-620035131/", label: "LinkedIn" },
+  { icon: MailOutlined, url: "mailto:4366brahampreet@gmail.com", label: "Email" },
 ];
 
 export const navItems = [
